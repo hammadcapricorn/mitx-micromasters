@@ -1,2 +1,5 @@
+*.csv
 *.pdf
 .DS_Store
+.RData
+.Rhistory
